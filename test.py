@@ -5,3 +5,4 @@ b=2
 c=a+b
 print("test")
 d=4
+d=5
